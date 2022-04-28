@@ -51,12 +51,12 @@ My name is Walugembe Expedicto and I'm a software developer/Web DEV. I'm from Ug
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Billy004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Walugembe's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Billy004/python-project-blueprint">
+<a href="https://github.com/Billy004/E-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billy004&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/Billy004/go-project-blueprint">
+<a href="https://github.com/Billy004/E-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billy004&repo=E-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 ---
