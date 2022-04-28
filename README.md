@@ -82,7 +82,7 @@ My name is Walugembe Expedicto and I'm a software developer/Web DEV. I'm from Ug
 </div>
 
 ### :fire: My Stats :
-<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Billy004&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
