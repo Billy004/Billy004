@@ -20,7 +20,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Walugembe Expedicto and I'm a software developer/Web DEV. I'm from Uganda, living in Entebbe and currently working as a freelancer. .
-
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
