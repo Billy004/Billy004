@@ -57,7 +57,7 @@ My name is Walugembe Expedicto and I'm a software developer/Web DEV. I'm from Ug
 
 
 <a href="https://github.com/Billy004/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billy004&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billy004&repo=E-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 ---
 
