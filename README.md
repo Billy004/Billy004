@@ -15,7 +15,7 @@ Web developer, Ui designer, Graphic designer
 src="https://img.shields.io/twitter/follow/billywalu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/billy004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/billy004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/billy004" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/billy004?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/billywalu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
