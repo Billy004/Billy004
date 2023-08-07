@@ -5,7 +5,7 @@ Web developer, Ui designer, Graphic designer
 --------------------------------------------
 
 * 🌍  I'm based in Uganda, Kampala
-* 🖥️  See my portfolio at [My portfolio](http://walugembeexpedicto.me/portfolio/)
+* 🖥️  See my portfolio at [My portfolio](https://zaba.pages.dev)
 * ✉️  You can contact me at [wexpedicto.50@gmail.com](mailto:wexpedicto.50@gmail.com)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on interesting project and educative
