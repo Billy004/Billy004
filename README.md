@@ -1,7 +1,7 @@
 Hi 👋 My name is Walugembe Expedicto
 ====================================
 
-Web developer, Ui designer, Graphic designer
+Web developer, App Developer, System and Network Admin, Ui designer, Graphic designer
 --------------------------------------------
 
 * 🌍  I'm based in Uganda, Kampala
