@@ -11,8 +11,8 @@ Web developer, App Developer, System and Network Admin, Ui designer, Graphic des
 * 🤝  I'm open to collaborating on interesting project and educative
 * ⚡  i love learning and working with people
 
-<a href="https://www.twitter.com/billywalu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/billywalu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.x.com/billywalu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/x/follow/billywalu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/billy004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/billy004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/billywalu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/billywalu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
